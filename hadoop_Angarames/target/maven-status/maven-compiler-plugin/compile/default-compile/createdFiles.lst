@@ -1,0 +1,4 @@
+org/mbds/hadoop/tp/WCountMap.class
+org/mbds/hadoop/tp/WCountReduce.class
+org/mbds/hadoop/tp/test.class
+org/mbds/hadoop/tp/WCount.class
