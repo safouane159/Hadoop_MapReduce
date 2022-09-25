@@ -2,6 +2,7 @@
 
 ##  Context 
 The Apache Hadoop software library is a framework that allows for the distributed processing of large data sets across clusters of computers using simple programming models.
+
 A MapReduce job usually splits the input data-set into independent chunks which are processed by the map tasks in a completely parallel manner. The framework sorts the outputs of the maps, which are then input to the reduce tasks. Typically both the input and the output of the job are stored in a file-system. The framework takes care of scheduling tasks, monitoring them and re-executes the failed tasks.
 In my exemple, I will implements three solution (Anagrams, Sales analysis and Breadth-first search) using hadoop MapReduce with Java.
 
