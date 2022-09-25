@@ -13,7 +13,7 @@ OBJECTIVE: We have a list of common english words. We wish to pinpoint which wor
 
 As a reminded, two words are anagrams if their letters are the same but in different orders (such as « melon » and « lemon », for example).
 
-- Download the file data using the command: wget http://cours.tokidev.fr/bigdata/tps/common_words_en_subset.txt
+- Download the file data using the command: wget http://cours.tokidev.fr/bigdata/tps/common_words_en_subset.txt. 
 
 
 ##  Sales analysis
@@ -31,28 +31,28 @@ channel (« Sales channel » : online or offline), and finally the total sale pr
 (« Total profit »).
 
 - My program is able to perform the following tasks:
-      ● Obtain the total profit for any given world region.
-      ● Obtain the total profit for any given country.
-      ● Obtain the total profit for any given item type.
-- For each item type :
-      ● How many sales were performed online.
-      ● How many sales were performed offline.
-             … and for each of those quantities, how much the combined total profit for those sales was.
+      ● Obtain the total profit for any given world region.  
+      ● Obtain the total profit for any given country.  
+      ● Obtain the total profit for any given item type.  
+- For each item type :  
+      ● How many sales were performed online.  
+      ● How many sales were performed offline.  
+             … and for each of those quantities, how much the combined total profit for those sales was.  
              
              
               
-##  Breadth-first search
+##  Breadth-first search. 
 
 
-- Download the file data using the command: wget http://cours.tokidev.fr/bigdata/tps/graph_input.txt
+- Download the file data using the command: wget http://cours.tokidev.fr/bigdata/tps/graph_input.txt. 
 
-Here I Implement the graph search algorithm :
+Here I Implement the graph search algorithm :  
 
-![This is an image](/Graph2.png)
+![This is an image](/Graph2.png). 
 
-the algorithm will run in iterations
+the algorithm will run in iterations. 
 
-![This is an image](/Graph1.png)
+![This is an image](/Graph1.png). 
 
 
              
