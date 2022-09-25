@@ -48,11 +48,11 @@ channel (« Sales channel » : online or offline), and finally the total sale pr
 
 Here I Implement the graph search algorithm :  
 
-![This is an image](/Graph2.png). 
+![This is an image](/graph2.png). 
 
 the algorithm will run in iterations. 
 
-![This is an image](/Graph1.png). 
+![This is an image](/graph1.png). 
 
 
              
